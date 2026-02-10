@@ -8,13 +8,22 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@google/genai": "^1.40.0",
     "axios": "^1.13.5",
     "body-parser": "^2.2.2",
     "cors": "^2.8.6",
     "dotenv": "^17.2.4",
-    "express": "^5.2.1"
-  }
+    "express": "^5.2.1",
+    "helmet": "^8.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashishhgoyall/Bajaj_Finserv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kashishhgoyall/Bajaj_Finserv/issues"
+  },
+  "homepage": "https://github.com/Kashishhgoyall/Bajaj_Finserv#readme",
+  "description": ""
 }
